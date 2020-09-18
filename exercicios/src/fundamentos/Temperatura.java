@@ -9,7 +9,7 @@ public class Temperatura {
 		
 		double fahrenheit = 86;
 		double celsius = (fahrenheit - ajuste) * fator;
-		System.out.println("O resultado é " + celsius+ "˚C.");
+		System.out.println("O resultado é isso" + celsius+ "˚C.");
 		
 		fahrenheit = 0;
 		celsius = (fahrenheit - ajuste) * fator;
