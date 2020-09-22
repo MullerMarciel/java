@@ -13,7 +13,7 @@ public class Temperatura {
 		
 		fahrenheit = 0;
 		celsius = (fahrenheit - ajuste) * fator;
-		System.out.println("O resultado é " + celsius+ "˚C.");
+		System.out.println("O resultado x é " + celsius+ "˚C.");
 
 	}
 }
